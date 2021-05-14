@@ -1,8 +1,8 @@
 ---
 name: Improvement request
-about: Improvement request
+about: Suggest an improvement for this project
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---

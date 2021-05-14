@@ -1,8 +1,8 @@
 ---
 name: Questions
-about: Questions to developers
+about: Ask any questions, which are interested you
 title: ''
-labels: ''
+labels: question
 assignees: ''
 
 ---
