@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @DisplayName("Unit-level testing for CommandContainer")
 class CommandContainerTest {
 
-    private CommandContainer commandContainer;
+    private CommandContainer commandContainer; 
 
     @BeforeEach
     void init() {
